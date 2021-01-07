@@ -1,3 +1,12 @@
+# Starting a CRA-Router project 
+
+1. Créer un projet avec npx create-react-app nomduprojet
+2. Faire le nettoyage de la base
+3. npm install react-router-dom
+4. Import React Router
+5. Créer les pages
+6. Transformer notre app.js en routeur
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
